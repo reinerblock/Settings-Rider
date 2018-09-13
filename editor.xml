@@ -1,0 +1,10 @@
+<application>
+  <component name="TodoConfiguration">
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;DXCORE:)(\W|$)(.*)" />
+    <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;CHECK:)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;INFO:)(\W|$)(.*)" />
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+  </component>
+</application>
