@@ -6,6 +6,46 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Forward" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Back" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Exit" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CloseProject" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Back" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Forward" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NewFromTemplate" is_action="true" action_type="1" position="17">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
@@ -18,5 +58,13 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="NewFromTemplate" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="CloseProject" icon="$USER_HOME$/Icons/PNG/ActionsDialogClose16.png" />
+    <action id="Exit" icon="$USER_HOME$/Icons/PNG/ActionExit16.png" />
   </component>
 </application>
