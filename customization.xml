@@ -111,11 +111,6 @@
       <path value="Refactor" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="EditorLangPopupMenu" is_group="true" action_type="-1" position="21">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="RiderBackendAction-InvertBool" is_action="true" action_type="-1" position="21">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -187,31 +182,31 @@
       <path value="Refactor" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="NewFromTemplate" is_group="true" action_type="-1" position="18">
+    <group value="RiderBackendAction-MakeStatic" is_action="true" action_type="-1" position="18">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-Type2Partial" is_action="true" action_type="-1" position="17">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-Type2Partial" is_action="true" action_type="-1" position="17">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_group="true" action_type="-1" position="17">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
       <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RiderBackendAction-MakeStatic" is_action="true" action_type="-1" position="18">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <path value="Project View Popup Refactoring Group" />
-      <path value="Refactor" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RiderBackendAction-Type2Partial" is_action="true" action_type="-1" position="17">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="Refactor" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RiderBackendAction-Type2Partial" is_action="true" action_type="-1" position="17">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (1)" />
-      <path value="EditorPopupMenu1.FindRefactor" />
-      <path value="Refactor" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RiderBackendAction-Type2Partial" is_action="true" action_type="-1" position="17">
@@ -947,6 +942,11 @@
       <path value="Extract" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="InvertBoolean" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -1015,11 +1015,6 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="15">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ReactExtractComponentAction" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -1047,11 +1042,6 @@
     <group value="$Redo" is_action="true" action_type="1" position="16">
       <path value="root" />
       <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorLangPopupMenu" is_group="true" action_type="1" position="16">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="sql.ExtractNamedQueryAction" is_action="true" action_type="1" position="16">
@@ -1105,6 +1095,12 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NewFromTemplate" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_action="true" action_type="1" position="20">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
       <path value="New" />
