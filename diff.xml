@@ -37,6 +37,13 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="HIGHLIGHTING_LEVEL" value="ADVANCED" />
+          <option name="SHOW_INDENT_LINES" value="true" />
+        </PlaceSettings>
+      </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
