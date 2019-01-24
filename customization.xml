@@ -264,11 +264,6 @@
       <path value="Refactor" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="MainToolBarSettings" is_group="true" action_type="-1" position="9">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="IntroduceField" is_action="true" action_type="-1" position="9">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -319,9 +314,8 @@
     <group seperator="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="ActiveRuntimeGroup" />
-      <path value="UnityToolbarActions" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="6">
@@ -383,6 +377,12 @@
       <path value="Extract" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Android.CreateResourcesActionGroup" is_group="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="RiderBackendAction-ExtractContentPlaceholder" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
@@ -404,6 +404,13 @@
       <path value="Extract" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="DotNetProfiler.RunGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Move" is_action="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -474,8 +481,7 @@
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
-      <path value="ActiveRuntimeGroup" />
-      <path value="UnityToolbarActions" />
+      <path value="DotNetProfiler.RunGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="IntroduceVariable" is_action="true" action_type="1" position="0">
@@ -661,6 +667,12 @@
       <path value="EditorPopupMenu1.FindRefactor" />
       <path value="Refactor" />
       <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.CreateResourcesActionGroup" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ReactClassToFunctionalComponentAction" is_action="true" action_type="1" position="4">
@@ -1125,6 +1137,12 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NewFromTemplate" is_action="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_action="true" action_type="1" position="25">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
       <path value="New" />
